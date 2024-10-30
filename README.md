@@ -1,6 +1,6 @@
 # Pico-8-big5
 Pico-8中文顯示方案  
-![image]()
+![image](https://github.com/tupochang/Pico-8-big5/blob/main/Image/PICO-8.png?raw=true)  
 因為Pico-8本身無法輸入以及使用中文字，因此本方案目的是在讓Pico-8顯示中文文字（理論上其他語言也行）．　　
 # 邏輯
 使用Python分析文本並且過濾到重覆文字  

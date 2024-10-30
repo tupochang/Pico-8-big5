@@ -4,6 +4,8 @@ Pico-8中文顯示方案
 # 邏輯
 使用Python分析文本並且過濾到重覆文字  
 讀取點陣文字並將將文字的圖像轉成16進位  
+文字字型使用 上古神器 III : 7x7像素点阵中文字体
+https://github.com/Angelic47/FontChinese7x7/tree/main  
 並以陣列排列點陣圖  
 最後依文本順序排列文字陣列陣  
 

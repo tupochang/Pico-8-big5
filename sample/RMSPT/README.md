@@ -1,3 +1,6 @@
+![image](https://github.com/tupochang/Pico-8-big5/blob/main/Image/PICO-8.png?raw=true) 
+
+
 這是一個PICO-8用基於洛克人風格的密碼生成器。
 
 

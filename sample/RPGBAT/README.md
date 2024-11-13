@@ -1,4 +1,4 @@
-![](https://github.com/tupochang/Pico-8-big5/blob/main/Image/rockmanpassword.png)
+![](https://github.com/tupochang/Pico-8-big5/blob/main/sample/RPGBAT/rpg_0.png?raw=true)
 
 
 這是一個PICO-8仿日系RPG的戰鬥畫面。

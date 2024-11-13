@@ -1,5 +1,4 @@
-![image](![image](https://github.com/user-attachments/assets/1e870822-b6e9-4f6f-a938-7e01150ed2cc)
-) 
+![image](![image](https://github.com/user-attachments/assets/1e870822-b6e9-4f6f-a938-7e01150ed2cc))
 
 
 這是一個PICO-8用基於洛克人風格的密碼生成器。

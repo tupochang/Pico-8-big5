@@ -1,4 +1,4 @@
-https://github.com/tupochang/Pico-8-big5/blob/main/Image/rockmanpassword.png
+![](https://github.com/tupochang/Pico-8-big5/blob/main/Image/rockmanpassword.png)
 
 
 這是一個PICO-8用基於洛克人風格的密碼生成器。
